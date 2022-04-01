@@ -1,1 +1,0 @@
-# GBP-EUR-exchange-browser-bug
